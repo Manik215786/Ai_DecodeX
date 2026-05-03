@@ -20,7 +20,6 @@ Processing: Structured JSON parsing for data visualization
 
 ## 🎬 Demo Video & Submission  Live Working Project 
 
-Video: [PASTE YOUR GOOGLE DRIVE LINK HERE]  
-
+Video:  (https://drive.google.com/file/d/1bXFKfiBxjQ97mns2E8ob8t48FdM6wnKk/view?usp=sharing) 
 Hosted Link: [ https://aidecodexgit-z2qyakoqsjqroupnzufpzn.streamlit.app/ ]  
 
