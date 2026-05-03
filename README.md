@@ -22,5 +22,5 @@ Processing: Structured JSON parsing for data visualization
 
 Video: [PASTE YOUR GOOGLE DRIVE LINK HERE]  
 
-Hosted Link: [PASTE YOUR STREAMLIT CLOUD LINK HERE]  
+Hosted Link: [ https://aidecodexgit-z2qyakoqsjqroupnzufpzn.streamlit.app/ ]  
 
